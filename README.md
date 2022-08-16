@@ -37,9 +37,9 @@ Download the code or clone the repo to your local PC.
 
 ## Author
 
-- GitHub: [@githubhandle](https://github.com/lolashot)
+- GitHub: [@lolashot](https://github.com/lolashot)
 - Twitter: [@lola_wealthy](https://twitter.com/@lola_wealthy)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shotola-ololade-946b95241/)
+- LinkedIn: [shotola-ololade-946b95241/](https://www.linkedin.com/in/shotola-ololade-946b95241/)
 
 
 ## 🤝 Contributing
